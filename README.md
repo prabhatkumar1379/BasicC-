@@ -14,13 +14,13 @@ A **data type** in C# defines:
 
 ## 🔹 Types of Data Types
 
-### 1. Value Types
+### 1. Value Types /Premitive Types
 - Store the **actual data directly**.
 - Stored in **Stack memory**.
 - Each variable has its own copy (independent).
 - Examples: `int`, `float`, `char`, `bool`, `struct`.
 
-### 2. Reference Types
+### 2. Reference Types / Non-Primitive Types
 - Store a **reference (address)** to the actual data.
 - Reference is in **Stack**, actual object in **Heap**.
 - Multiple variables can point to the same object.
