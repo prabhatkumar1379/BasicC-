@@ -52,3 +52,5 @@ struct Point
 Point p1 = new Point();
 p1.X = 5; 
 p1.Y = 10;  // Struct fields stored directly in Stack
+[Value Type and Reference Type in C#](https://thedotnetguide.com/csharp-value-type-and-reference-type/)
+
